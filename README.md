@@ -1,6 +1,6 @@
 # page-loaded-time
 
-This module will return how much seconds does it take for your site to load.
+Returns how much seconds did take for your site to load.
 
 [![DEMO](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/oop3vqwxl5)
 
