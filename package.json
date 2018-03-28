@@ -1,0 +1,23 @@
+{
+  "name": "page-loaded-time",
+  "version": "1.0.0",
+  "description": "Returns how much seconds did take for your site to load.",
+  "main": "src/index.js",
+  "author": "Vedran Blazenka",
+  "contributors": [
+    "Vedran Blazenka <blazenka.vedran@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": false,
+  "scripts": {},
+  "files": [
+    "src",
+    "README"
+  ],
+  "keywords": [
+    "page", "website", "time", "loading", "speed", "performance"
+  ],
+  "bugs": {
+    "url": "https://github.com/wedranb/page-loaded-time/issues"
+  }
+}
